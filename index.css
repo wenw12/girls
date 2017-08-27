@@ -1,0 +1,50 @@
+* {
+    font: 300 16px/1 HelveticaNeueW01-55Roma,HelveticaNeueW02-55Roma,HelveticaNeueW10-55Roma,'Helvetica Neue',Helvetica,Arial,Meiryo,'Hiragino Kaku Gothic Pro W3','Hiragino Kaku Gothic Pro',sans-serif;
+}
+button {
+
+}
+nav button {
+
+}
+.btn-aaa {
+
+}
+.logo {
+    width: 198px;
+}
+.asl
+{text-align:center;
+    margin-top:50px;
+ }
+ .brand
+ {float:right;
+padding-right:60px;
+padding:20px;
+width:500px;}
+
+
+.quality 
+{float:left;font: 300 16px/1 HelveticaNeueW01-55Roma,HelveticaNeueW02-55Roma,HelveticaNeueW10-55Roma,'Helvetica Neue',Helvetica,Arial,Meiryo,'Hiragino Kaku Gothic Pro W3','Hiragino Kaku Gothic Pro',sans-serif;}
+
+.about
+{text-align: center;background-color: #222;padding:40px 20px 10px 20px;color: #9d9d9d;}
+
+.abt img
+{width:100%;}
+
+.abt {
+    height: 900px;
+    overflow: hidden;
+}
+.contact1{float:left;padding-left:5px;width:500px}
+
+.contact2{float:right;
+    padding-right:50px;
+    padding:20px;
+    width:550px;}
+
+    .contact1 p{padding:10px;font: 300 16px/1 HelveticaNeueW01-55Roma,HelveticaNeueW02-55Roma,HelveticaNeueW10-55Roma,'Helvetica Neue',Helvetica,Arial,Meiryo,'Hiragino Kaku Gothic Pro W3','Hiragino Kaku Gothic Pro',sans-serif;}
+    
+    .contact1 h1{padding:10px;font: 800 20px/1 HelveticaNeueW01-55Roma,HelveticaNeueW02-55Roma,HelveticaNeueW10-55Roma,'Helvetica Neue',Helvetica,Arial,Meiryo,'Hiragino Kaku Gothic Pro W3','Hiragino Kaku Gothic Pro',sans-serif;}
+    
